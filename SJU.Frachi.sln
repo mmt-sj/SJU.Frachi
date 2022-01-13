@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SJU.Frachi.Api", "SJU.Frachi.Api\SJU.Frachi.Api.csproj", "{BBA986E0-3352-4B77-8AD3-4360D92E1DA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SJU.Frachi.Dao", "SJU.Frachi.Dao\SJU.Frachi.Dao.csproj", "{40D146E0-D9FA-4057-99D5-731E2E6C8E61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BBA986E0-3352-4B77-8AD3-4360D92E1DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA986E0-3352-4B77-8AD3-4360D92E1DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA986E0-3352-4B77-8AD3-4360D92E1DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D146E0-D9FA-4057-99D5-731E2E6C8E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D146E0-D9FA-4057-99D5-731E2E6C8E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D146E0-D9FA-4057-99D5-731E2E6C8E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D146E0-D9FA-4057-99D5-731E2E6C8E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
